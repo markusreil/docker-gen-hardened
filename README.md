@@ -1,5 +1,7 @@
 # docker-gen-hardened
 
+[![docker](https://img.shields.io/docker/v/mreil/docker-gen-hardened?sort=semver&logo=docker)](https://hub.docker.com/r/mreil/docker-gen-hardened)
+
 Hardened `docker-gen` image: upstream
 [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) rebuilt
 from source on a current Go toolchain with patched transitive dependencies,
